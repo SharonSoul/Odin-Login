@@ -1,4 +1,3 @@
-# login-page
-A stylish login page
-# link to live page
- https://dearbornadeolu.github.io/login-page/
+# This is a Specialized Norse style Login page
+### Media Responsive
+##### Link to Live Page - 
